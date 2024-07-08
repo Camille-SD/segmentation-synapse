@@ -1,4 +1,7 @@
-UNet not frozen
+Use pre-trained UNet implementation from segmentation_models_pytorch
+The corresponding layers were fine-tuned for 50 epochs
+
+UNet b4321
 
 idx 0 case case0008 mean_dice 0.621423 mean_hd95 19.184934
 idx 1 case case0022 mean_dice 0.822607 mean_hd95 29.933251
@@ -22,7 +25,7 @@ Mean class 7 mean_dice 0.853570 mean_hd95 70.914097
 Mean class 8 mean_dice 0.706052 mean_hd95 19.207768
 Testing performance in best val model: mean_dice : 0.754605 mean_hd95 : 38.562268
 
-UNet 1 frozen layer
+UNet b432
 
 idx 0 case case0008 mean_dice 0.640322 mean_hd95 19.932480
 idx 1 case case0022 mean_dice 0.865877 mean_hd95 10.564771
@@ -46,7 +49,7 @@ Mean class 7 mean_dice 0.851568 mean_hd95 24.289206
 Mean class 8 mean_dice 0.736676 mean_hd95 16.525053
 Testing performance in best val model: mean_dice : 0.761176 mean_hd95 : 32.367561
 
-UNet 2 frozen layers
+UNet b43
 
 idx 0 case case0008 mean_dice 0.581872 mean_hd95 38.544234
 idx 1 case case0022 mean_dice 0.826237 mean_hd95 12.516058
@@ -70,7 +73,7 @@ Mean class 7 mean_dice 0.837349 mean_hd95 26.226347
 Mean class 8 mean_dice 0.668921 mean_hd95 16.238911
 Testing performance in best val model: mean_dice : 0.724557 mean_hd95 : 27.442760
 
-UNet 3 frozen layers
+UNet b4
 
 idx 0 case case0008 mean_dice 0.411343 mean_hd95 70.027227
 idx 1 case case0022 mean_dice 0.671972 mean_hd95 44.555090
@@ -94,7 +97,7 @@ Mean class 7 mean_dice 0.721117 mean_hd95 126.411032
 Mean class 8 mean_dice 0.588929 mean_hd95 22.564955
 Testing performance in best val model: mean_dice : 0.592923 mean_hd95 : 59.619653
 
-UNet 4 frozen layers
+UNet b
 
 idx 0 case case0008 mean_dice 0.164960 mean_hd95 107.188470
 idx 1 case case0022 mean_dice 0.234772 mean_hd95 62.924854

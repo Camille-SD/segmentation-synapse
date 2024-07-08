@@ -1,2 +1,2 @@
 # segmentation-synapse
-Training, testing and visualisation code for segmentation models on the Synapse dataset
+Training, evaluation and visualisation code for segmentation models on the Synapse dataset
