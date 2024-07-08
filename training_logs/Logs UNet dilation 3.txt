@@ -1,0 +1,95 @@
+Depth 4 dilation 3
+
+idx 0 case case0008 mean_dice 0.569731 mean_hd95 15.451488
+idx 1 case case0022 mean_dice 0.816462 mean_hd95 28.964887
+idx 2 case case0038 mean_dice 0.705635 mean_hd95 50.132182
+idx 3 case case0036 mean_dice 0.798282 mean_hd95 35.822335
+idx 4 case case0032 mean_dice 0.751930 mean_hd95 12.555949
+idx 5 case case0002 mean_dice 0.819044 mean_hd95 21.188311
+idx 6 case case0029 mean_dice 0.532595 mean_hd95 77.093490
+idx 7 case case0003 mean_dice 0.515973 mean_hd95 117.889377
+idx 8 case case0001 mean_dice 0.672694 mean_hd95 29.156685
+idx 9 case case0004 mean_dice 0.662339 mean_hd95 53.555598
+idx 10 case case0025 mean_dice 0.659137 mean_hd95 50.748329
+idx 11 case case0035 mean_dice 0.840814 mean_hd95 15.417242
+Mean class 1 mean_dice 0.818469 mean_hd95 10.089845
+Mean class 2 mean_dice 0.550433 mean_hd95 38.312409
+Mean class 3 mean_dice 0.757934 mean_hd95 63.959322
+Mean class 4 mean_dice 0.654738 mean_hd95 81.331452
+Mean class 5 mean_dice 0.914407 mean_hd95 35.135855
+Mean class 6 mean_dice 0.416901 mean_hd95 20.573517
+Mean class 7 mean_dice 0.816231 mean_hd95 67.088478
+Mean class 8 mean_dice 0.633978 mean_hd95 22.159704
+Testing performance in best val model: mean_dice : 0.695386 mean_hd95 : 42.331323
+
+Depth 3 dilation 3
+
+idx 0 case case0008 mean_dice 0.580474 mean_hd95 30.972149
+idx 1 case case0022 mean_dice 0.854877 mean_hd95 24.563590
+idx 2 case case0038 mean_dice 0.680718 mean_hd95 56.990744
+idx 3 case case0036 mean_dice 0.790946 mean_hd95 63.660859
+idx 4 case case0032 mean_dice 0.784812 mean_hd95 31.130302
+idx 5 case case0002 mean_dice 0.812727 mean_hd95 25.365737
+idx 6 case case0029 mean_dice 0.659298 mean_hd95 37.870929
+idx 7 case case0003 mean_dice 0.491232 mean_hd95 83.896100
+idx 8 case case0001 mean_dice 0.682822 mean_hd95 40.491012
+idx 9 case case0004 mean_dice 0.691681 mean_hd95 49.342658
+idx 10 case case0025 mean_dice 0.690215 mean_hd95 45.825198
+idx 11 case case0035 mean_dice 0.844466 mean_hd95 25.920279
+Mean class 1 mean_dice 0.820997 mean_hd95 7.651160
+Mean class 2 mean_dice 0.570857 mean_hd95 19.893814
+Mean class 3 mean_dice 0.785718 mean_hd95 62.384258
+Mean class 4 mean_dice 0.684983 mean_hd95 116.211641
+Mean class 5 mean_dice 0.919216 mean_hd95 40.761130
+Mean class 6 mean_dice 0.471253 mean_hd95 16.721238
+Mean class 7 mean_dice 0.814121 mean_hd95 58.211749
+Mean class 8 mean_dice 0.642365 mean_hd95 22.184715
+Testing performance in best val model: mean_dice : 0.713689 mean_hd95 : 43.002463
+
+Depth 2 dilation 3
+
+idx 0 case case0008 mean_dice 0.525489 mean_hd95 42.976796
+idx 1 case case0022 mean_dice 0.839797 mean_hd95 25.609494
+idx 2 case case0038 mean_dice 0.689561 mean_hd95 63.043982
+idx 3 case case0036 mean_dice 0.752814 mean_hd95 90.720993
+idx 4 case case0032 mean_dice 0.718042 mean_hd95 58.608067
+idx 5 case case0002 mean_dice 0.793716 mean_hd95 47.616614
+idx 6 case case0029 mean_dice 0.671560 mean_hd95 45.134459
+idx 7 case case0003 mean_dice 0.516769 mean_hd95 120.708803
+idx 8 case case0001 mean_dice 0.676017 mean_hd95 73.131131
+idx 9 case case0004 mean_dice 0.670881 mean_hd95 64.338193
+idx 10 case case0025 mean_dice 0.620558 mean_hd95 46.914032
+idx 11 case case0035 mean_dice 0.830803 mean_hd95 17.337524
+Mean class 1 mean_dice 0.817574 mean_hd95 9.930021
+Mean class 2 mean_dice 0.584612 mean_hd95 49.827292
+Mean class 3 mean_dice 0.745164 mean_hd95 90.106045
+Mean class 4 mean_dice 0.666852 mean_hd95 94.790958
+Mean class 5 mean_dice 0.908790 mean_hd95 44.543888
+Mean class 6 mean_dice 0.440284 mean_hd95 23.663771
+Mean class 7 mean_dice 0.780276 mean_hd95 117.030590
+Mean class 8 mean_dice 0.593787 mean_hd95 34.200829
+Testing performance in best val model: mean_dice : 0.692167 mean_hd95 : 58.011674
+
+Depth 1 dilation 3
+
+idx 0 case case0008 mean_dice 0.438882 mean_hd95 87.955748
+idx 1 case case0022 mean_dice 0.783512 mean_hd95 63.857302
+idx 2 case case0038 mean_dice 0.601840 mean_hd95 104.316496
+idx 3 case case0036 mean_dice 0.589576 mean_hd95 159.918164
+idx 4 case case0032 mean_dice 0.667944 mean_hd95 88.173462
+idx 5 case case0002 mean_dice 0.728189 mean_hd95 76.088286
+idx 6 case case0029 mean_dice 0.627725 mean_hd95 60.541534
+idx 7 case case0003 mean_dice 0.550862 mean_hd95 129.414510
+idx 8 case case0001 mean_dice 0.567782 mean_hd95 126.864658
+idx 9 case case0004 mean_dice 0.604572 mean_hd95 88.099024
+idx 10 case case0025 mean_dice 0.476529 mean_hd95 85.204688
+idx 11 case case0035 mean_dice 0.782969 mean_hd95 44.980415
+Mean class 1 mean_dice 0.768142 mean_hd95 62.238441
+Mean class 2 mean_dice 0.525802 mean_hd95 98.304254
+Mean class 3 mean_dice 0.723447 mean_hd95 115.538514
+Mean class 4 mean_dice 0.666446 mean_hd95 119.425999
+Mean class 5 mean_dice 0.864412 mean_hd95 71.699488
+Mean class 6 mean_dice 0.287255 mean_hd95 44.439564
+Mean class 7 mean_dice 0.653594 mean_hd95 160.403328
+Mean class 8 mean_dice 0.457823 mean_hd95 71.559937
+Testing performance in best val model: mean_dice : 0.618365 mean_hd95 : 92.951191
